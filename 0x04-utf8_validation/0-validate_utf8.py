@@ -5,13 +5,6 @@
 def EightBits(integer):
     """ A function that:
     converts an integer to its binary representation,
-#!/usr/bin/python3
-""" A method that checks if a given data set represents a valid UTF-8 """
-
-
-def EightBits(integer):
-    """ A function that:
-    converts an integer to its binary representation,
     removes the 'Ob' prefixe
     and returns the full 8 bits of the binary string """
     binary = bin(integer)[2:]
